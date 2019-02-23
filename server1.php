@@ -1,5 +1,7 @@
 <?php
-
+/**
+ * Pengenalan Socket Programming
+ */
 date_default_timezone_set('Asia/Jakarta');
 // Set the ip and port we will listen on
 $address = 'localhost';
